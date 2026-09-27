@@ -1,0 +1,6 @@
+{
+  "name": "NexusAgent: Autonomous Workflow Orchestrator",
+  "description": "Agentic AI application that autonomously manages complex task workflows across software platforms, prioritizing critical deadlines via seamless OpenAI API integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
